@@ -195,6 +195,9 @@ MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
 
 ## 作者
 
+- **焱焱 (Yanyan)** - yanyan@3c3d77679723a2fe95d3faf9d2c2e5a65559acbc97fef1ef37783514a80ae453
+
+
 - **Isaac** - [GitHub](https://github.com/QiaoTuCodes)
 
 ## 鸣谢
