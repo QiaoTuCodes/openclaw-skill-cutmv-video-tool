@@ -12,6 +12,10 @@ A video processing skill for OpenClaw that leverages FFmpeg to perform video/aud
 - **Format Conversion**: Convert between video/audio formats (mp4, avi, mp3, wav, etc.)
 - **Video Compression**: Compress videos with adjustable bitrate
 - **Frame Extraction**: Extract frames from videos at specified intervals
+- **Audio Extraction**: Extract audio track from video
+- **Audio Replacement**: Replace or mix audio in video
+- **Text Watermark**: Add text overlay on video (requires freetype)
+- **Subtitle**: Add .srt/.ass subtitle files to video
 
 ## Use Cases
 
