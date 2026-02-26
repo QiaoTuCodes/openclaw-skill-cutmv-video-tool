@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QiaoTuCodes/openclaw-skill-cutmv-video-tool/main/assets/openclaw-skill-logo.png">
-        <img src="https://raw.githubusercontent.com/QiaoTuCodes/openclaw-skill-cutmv-video-tool/main/assets/openclaw-skill-logo.png" alt="OpenClaw Skill" width="500">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QiaoTuCodes/openclaw-skill-cutmv-video-tool/main/openclaw-skill-logo.png">
+        <img src="https://raw.githubusercontent.com/QiaoTuCodes/openclaw-skill-cutmv-video-tool/main/openclaw-skill-logo.png" alt="OpenClaw Skill" width="500">
     </picture>
 </p>
 
